@@ -5,6 +5,7 @@ class GitTest:
         print("hello world!")
         print("hello ketty")
         print("good morning")
+        print("master test")
 
 
 obj = GitTest
