@@ -7,7 +7,7 @@ class GitTest:
         print("good morning")
         print("master test")
         print("hot-fix test!")
-
+        print("poll test!")
 
 obj = GitTest
 obj.p()
